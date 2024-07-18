@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yinuotang/Desktop/csprojects/gestureModels/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network-master/TrainedModel/GestureRecogModel.tfl"
+all_model_checkpoint_paths: "/Users/yinuotang/Desktop/csprojects/gestureModels/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network-master/TrainedModel/GestureRecogModel.tfl"
