@@ -10,7 +10,6 @@ gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.65.1
 gunicorn==22.0.0
-h5py==3.11.0
 idna==3.7
 imutils==0.5.4
 itsdangerous==2.2.0
